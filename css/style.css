@@ -1,0 +1,126 @@
+@import url(http://fonts.googleapis.com/css?family=Bitter|Ultra|Oswald);
+
+header {
+  text-align: center; 
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Ultra";
+  font-size: 400%;
+}
+
+h1 {
+  font-family: "Oswald";
+  font-size: 250%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 30%;
+}
+
+img {
+  width: 5%;
+}
+
+.together {
+  display: block;
+  width: 40%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.together .bread {
+  text-align: center;
+  font-family: "Oswald";
+  font-size: 200%;
+  
+}
+
+.together .cheese {
+  text-align: center;
+  font-family: "Oswald";
+  font-size: 200%;
+  
+}
+
+.together .meat {
+  text-align: center;
+  font-family: "Oswald";
+  font-size: 200%;
+  
+}
+
+.together .condiments {
+  text-align: center;
+  font-family: "Oswald";
+  font-size: 200%;
+  
+}
+
+.together .toppings{
+  text-align: center;
+  font-family: "Oswald";
+  font-size: 200%;
+  
+}
+
+.together .extras {
+  text-align: center;
+  font-family: "Oswald";
+  font-size: 200%;
+  
+}
+
+.together .bread_types {
+  margin-left: 12%;
+  font-family: "Bitter";
+  visibility: hidden;
+
+}
+
+.together .meat_types {
+  margin-left: 12%;
+  font-family: "Bitter";
+  visibility: hidden;
+}
+
+
+.together .cheese_types {
+  margin-left: 12%;
+  font-family: "Bitter";
+  visibility: hidden;
+}
+
+
+.together .condiment_types {
+  margin-left: 12%;
+  font-family: "Bitter";
+  visibility: hidden;
+}
+
+
+.together .topping_types {
+  margin-left: 12%;
+  font-family: "Bitter";
+  visibility: hidden;
+}
+
+
+.together .extras_types {
+  margin-left: 12%;
+  font-family: "Bitter";
+  visibility: hidden;
+}
+
+.submit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  visibility: hidden;
+}
+
+
+
+
